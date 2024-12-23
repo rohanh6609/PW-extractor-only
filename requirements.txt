@@ -4,3 +4,4 @@ requests
 pyromod==1.5
 yt-dlp==2023.12.30
 ffmpeg
+gunicorn==20.1.0
