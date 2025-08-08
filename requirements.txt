@@ -1,7 +1,13 @@
+# Web Framework and Server
+fastapi==0.116.1
+uvicorn==0.35.0
+gunicorn==23.0.0
+
+# Telegram and Bot functionality
 Pyrogram==2.0.106
-TgCrypto
-requests
-pyromod==1.5
-yt-dlp==2023.12.30
-ffmpeg
-gunicorn==20.1.0
+TgCrypto==1.2.5
+pyromod==3.1.6
+
+# Other Utilities
+requests==2.32.4
+yt-dlp==2025.07.21
